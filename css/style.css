@@ -264,6 +264,9 @@ iframe{
 footer {
     background-color: rgb(230, 1, 18);
     text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 
 
 }
